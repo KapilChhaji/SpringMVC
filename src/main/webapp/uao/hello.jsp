@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="usercode.html">User Ragistration</a>
-<a href="userlogin.html">User Login</a>
-<a href="admincode.html">Admin Login</a>
+<h1>Hello</h1>
 </body>
 </html>
